@@ -24,11 +24,25 @@ label {
    }
 
 div {
-   padding-bottom: 40px;
+   padding-bottom: 30px;
    padding-top: 10px;
    }
 
-input[type="text"] {
-   padding: 5px;
-   width: 150px;
+.randomize {
+   background: brown;
+   color: #fff;
+   width: 200px;
+   height: 60px;
+   border-radius: 15px;
+   }
+
+p {
+   color: #fff;
+   font-weight: bold;
+   margin-top: 45px;
+   margin-left: 90px;
+   text-align: center;
+   width: 90%;
+   padding: 35px;
+   line-height: 2rem;
    }
